@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "What does reproducibility in science mean?",
+        "options": [
+            "Results are always correct.",
+            "Results can be repeated by other scientists using the same methods.",
+            "The experiment is very complex.",
+            "The results are published in a journal."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "How do scientists primarily gather data about the natural world?",
+        "options": [
+            "Through philosophical debate",
+            "Through careful observation",
+            "By voting on the best explanation",
+            "By using only mathematical formulas"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Information gained through direct observation and measurement is known as:",
+        "options": [
+            "A hypothesis",
+            "Empirical evidence",
+            "A theory",
+            "A prediction"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "A measurement that consistently produces similar results over multiple trials has high:",
+        "options": [
+            "Accuracy",
+            "Validity",
+            "Precision",
+            "Verifiability"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The correctness or truthfulness of a measurement, reflecting the true nature of a phenomenon, is its:",
+        "options": [
+            "Consistency",
+            "Precision",
+            "Accuracy",
+            "Objectivity"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What does the validity of an experiment refer to?",
+        "options": [
+            "How quickly it was performed",
+            "How well it measures what it claims to measure",
+            "How expensive the equipment was",
+            "How many times it was repeated"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The characteristic that scientific findings are reliable and repeatable over time is called:",
+        "options": [
+            "Tentativeness",
+            "Consistency",
+            "Methodical",
+            "Cumulative"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The characteristic that scientific knowledge is subject to change with new evidence is:",
+        "options": [
+            "Verifiability",
+            "Tentative",
+            "Objective",
+            "Empirical"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Knowledge that can be tested with concrete data is:",
+        "options": [
+            "Verifiable",
+            "Subjective",
+            "Temporary",
+            "Philosophical"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Science relies on empirical evidence, not prejudice or belief. This shows it is:",
+        "options": [
+            "Methodical",
+            "Objective",
+            "Cumulative",
+            "Consistent"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Following a step-by-step approach to acquire data demonstrates that science is:",
+        "options": [
+            "Tentative",
+            "Methodical",
+            "Reproducible",
+            "Predictable"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Scientific knowledge builds upon previous discoveries. This means it is:",
+        "options": [
+            "Valid",
+            "Cumulative",
+            "Accurate",
+            "Consistent"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Why is replicating an experiment important?",
+        "options": [
+            "To use more advanced equipment",
+            "To allow chance results to be excluded",
+            "To make the experiment more famous",
+            "To change the hypothesis"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Scientists use observed patterns to:",
+        "options": [
+            "Write science fiction",
+            "Prove theories are absolute",
+            "Predict future events",
+            "Make laws"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The boiling point of water experiment demonstrated which characteristic?",
+        "options": [
+            "That science is tentative",
+            "The use of empirical evidence",
+            "That all hypotheses are correct",
+            "The importance of subjectivity"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "In the starch test, the leaf is boiled in water first to:",
+        "options": [
+            "Extract the chlorophyll",
+            "Dissolve the starch",
+            "Kill the leaf and break down its waxy coating",
+            "Change its colour"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "In the starch test, ethanol is used to:",
+        "options": [
+            "Provide water for the reaction",
+            "Extract the green chlorophyll",
+            "Act as a nutrient",
+            "Clean the leaf"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "A positive test for starch is indicated by which colour change?",
+        "options": [
+            "Green to yellow",
+            "Blue-black colour",
+            "Red to colourless",
+            "No colour change"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The starch test is described as \"failsafe\" if the procedures are followed. This highlights that science is:",
+        "options": [
+            "Tentative",
+            "Methodical",
+            "Subjective",
+            "Cumulative"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which characteristic is demonstrated by repeating the boiling point experiment to ensure reliability?",
+        "options": [
+            "Predictions",
+            "Replication",
+            "Objectivity",
+            "Validity"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which of the following is NOT a common hazard in a science class?",
+        "options": [
+            "Heat burns.",
+            "Chemical burns.",
+            "Electrical shock.",
+            "Loud noises."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "Leaving sharp and pointed tools on the floor is a hazard because it can lead to:",
+        "options": [
+            "Electrical shock.",
+            "Cuts.",
+            "Chemical burns.",
+            "Heat burns."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which of the following is a prevention method for biological hazards?",
+        "options": [
+            "Ignoring sanitation rules.",
+            "Regular handwashing.",
+            "Mixing different chemicals.",
+            "Heating flammable solvents."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Why is it necessary to study the characteristics of science?",
+        "options": [
+            "To make all experiments succeed",
+            "To understand how scientific knowledge is developed and validated",
+            "To become a famous scientist",
+            "To prove that all other subjects are inferior"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "How can scientific processes be used to make predictions?",
+        "options": [
+            "By guessing the most likely outcome",
+            "Through a logical interpretation of collected data and observed patterns",
+            "By asking a magic 8-ball",
+            "By repeating what was done in the past"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The first step in designing a science project should involve:",
+        "options": [
+            "Buying expensive equipment",
+            "Forming a hypothesis based on observation",
+            "Writing the conclusion",
+            "Telling everyone your results"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which characteristic ensures that a science project's design can be followed and checked by others?",
+        "options": [
+            "Tentativeness",
+            "Methodical nature",
+            "Cumulative nature",
+            "Predictions"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The role of empirical evidence in project design is to:",
+        "options": [
+            "Make the project look more professional",
+            "Provide a factual basis for decisions and conclusions",
+            "Ensure the project is completed quickly",
+            "Replace the need for a hypothesis"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Why is gathering and analyzing data during the design process essential?",
+        "options": [
+            "It takes up time and makes the project longer.",
+            "It provides evidence to support or refute the hypothesis and guides decisions.",
+            "It is only necessary for professional scientists.",
+            "It makes the project more expensive."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "In which of these everyday areas are the characteristics of science LEAST likely to be applied directly?",
+        "options": [
+            "Diagnosing an illness",
+            "Testing a new recipe",
+            "Choosing an outfit based on horoscope",
+            "Troubleshooting a car engine"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "How are elements primarily organized in the periodic table?",
+        "options": [
+            "By their colour",
+            "By their atomic mass",
+            "By their atomic number",
+            "By who discovered them"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Elements in the same vertical column of the periodic table are called a:",
+        "options": [
+            "Period",
+            "Group",
+            "Row",
+            "Series"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Why do elements in the same group have similar chemical properties?",
+        "options": [
+            "They have the same atomic mass.",
+            "They were discovered at the same time.",
+            "They have the same number of valence electrons.",
+            "They have the same number of total electrons."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which group of elements is highly reactive due to having one valence electron?",
+        "options": [
+            "Alkali Metals (Group 1)",
+            "Halogens (Group 17)",
+            "Noble Gases (Group 18)",
+            "Transition Metals"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which group contains highly reactive nonmetals with seven valence electrons?",
+        "options": [
+            "Alkali Metals",
+            "Halogens",
+            "Alkaline Earth Metals",
+            "Semi-metals"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Semi-metals are found:",
+        "options": [
+            "On the far left of the periodic table",
+            "On the far right of the periodic table",
+            "Along the \"staircase\" line",
+            "In the bottom two rows"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which of these is a physical property of most metals?",
+        "options": [
+            "Dull surface",
+            "Brittle",
+            "Good conductor of electricity",
+            "Low melting point"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which metal is a liquid at room temperature?",
+        "options": [
+            "Iron",
+            "Gold",
+            "Mercury",
+            "Aluminum"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The ability of a metal to be hammered into a sheet is called:",
+        "options": [
+            "Ductility",
+            "Malleability",
+            "Sonority",
+            "Lustre"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The ability of a metal to be drawn into a wire is called:",
+        "options": [
+            "Ductility",
+            "Malleability",
+            "Sonority",
+            "Lustre"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Metals are good conductors of heat and electricity because they have:",
+        "options": [
+            "High density",
+            "Free electrons",
+            "Low melting points",
+            "Many protons"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which of these metals is soft and can be cut with a knife?",
+        "options": [
+            "Titanium",
+            "Sodium",
+            "Silver",
+            "Copper"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Metals tend to ______ electrons and form positive ions.",
+        "options": [
+            "Gain",
+            "Share",
+            "Lose",
+            "Donate and gain equally"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The mnemonic \"MAZIT\" helps remember the reactivity series for which metals?",
+        "options": [
+            "Mg, Al, Zn, Fe, Sn",
+            "Mn, Au, Zr, I, Te",
+            "Mo, Ag, Zn, Ir, Ta",
+            "All highly reactive metals"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "The chemical reaction of a metal with substances in the environment leading to deterioration is called:",
+        "options": [
+            "Alloying",
+            "Conductivity",
+            "Corrosion",
+            "Sonority"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "A mixture of two or more metals is called a(n):",
+        "options": [
+            "Compound",
+            "Molecule",
+            "Alloy",
+            "Ion"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which of these is a common use for gold and silver?",
+        "options": [
+            "Building construction",
+            "Jewellery",
+            "Making cables",
+            "Food preservation"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which of these is a NON-metal?",
+        "options": [
+            "Sodium (Na)",
+            "Iron (Fe)",
+            "Carbon (C)",
+            "Copper (Cu)"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Most non-metals are ______ at room temperature.",
+        "options": [
+            "Liquids",
+            "Solids or gases",
+            "Always solids",
+            "Always gases"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Non-metals are typically:",
+        "options": [
+            "Malleable and ductile",
+            "Good conductors of heat",
+            "Brittle and poor conductors",
+            "Shiny and sonorous"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "A notable exception to poor conductivity in non-metals is:",
+        "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Graphite (a form of carbon)",
+            "Sulfur"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Non-metals tend to ______ electrons in chemical reactions.",
+        "options": [
+            "Lose",
+            "Gain",
+            "Ignore",
+            "Destroy"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Non-metals have ______ electronegativity compared to metals.",
+        "options": [
+            "Lower",
+            "The same",
+            "Higher",
+            "Zero"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Sulfur dioxide (SO₂) is an example of:",
+        "options": [
+            "A basic oxide",
+            "A neutral oxide",
+            "An acidic oxide",
+            "A metallic oxide"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which non-metal is used as a food preservative and in light bulbs?",
+        "options": [
+            "Oxygen",
+            "Chlorine",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which non-metal is used as a bleaching agent and in water treatment?",
+        "options": [
+            "Oxygen",
+            "Chlorine",
+            "Nitrogen",
+            "Sulfur"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which element is a semi-metal?",
+        "options": [
+            "Sodium",
+            "Oxygen",
+            "Silicon",
+            "Chlorine"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Semi-metals have properties that are:",
+        "options": [
+            "Identical to metals",
+            "Identical to non-metals",
+            "Intermediate between metals and non-metals",
+            "Completely unique and unlike anything else"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The specific term for the corrosion of iron is:",
+        "options": [
+            "Tarnishing",
+            "Rusting",
+            "Oxidation",
+            "Galvanizing"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What are the two necessary conditions for iron to rust?",
+        "options": [
+            "Light and heat",
+            "Water and oxygen",
+            "Acid and salt",
+            "Nitrogen and carbon dioxide"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The chemical formula for rust is approximately:",
+        "options": [
+            "FeO",
+            "Fe₂O₃",
+            "Fe₂O₃·H₂O",
+            "Fe₃O₄"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which method of prevention involves coating iron with a layer of zinc?",
+        "options": [
+            "Painting",
+            "Alloying",
+            "Galvanising",
+            "Using desiccants"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "In galvanising, zinc protects iron because it is:",
+        "options": [
+            "More expensive",
+            "More reactive and corrodes instead",
+            "Less reactive",
+            "A better conductor"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Stainless steel is an example of preventing corrosion through:",
+        "options": [
+            "Painting",
+            "Alloying",
+            "Plating",
+            "Keeping it dry"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Using silica gel packets to absorb moisture is an example of using:",
+        "options": [
+            "Alloys",
+            "Paints",
+            "Desiccants",
+            "Sacrificial metals"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "A material's ability to withstand wear, corrosion, and deformation is its:",
+        "options": [
+            "Flexibility",
+            "Durability",
+            "Transparency",
+            "Biodegradability"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which polymer is known for its use in bulletproof vests due to its strength?",
+        "options": [
+            "Polyethylene (PE)",
+            "Aramid fibres",
+            "Polyvinyl chloride (PVC)",
+            "Rubber"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Polymers used in elastic bands and flexible packaging exhibit high:",
+        "options": [
+            "Thermal stability",
+            "Flexibility and elasticity",
+            "Electrical insulation",
+            "Chemical resistance"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Polymers used in aerospace and electronics for their resistance to high temperatures have good:",
+        "options": [
+            "Water resistance",
+            "Thermal stability",
+            "Adhesive properties",
+            "Transparency"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Polytetrafluoroethylene (PTFE) is used in chemical equipment due to its:",
+        "options": [
+            "Electrical insulation",
+            "Chemical resistance",
+            "Flexibility",
+            "Low cost"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The property that makes polymers like polyethylene (PE) suitable for cable coatings is:",
+        "options": [
+            "Electrical insulation",
+            "Transparency",
+            "Biodegradability",
+            "Strength"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Polymethyl methacrylate (Plexiglass) is used in lenses because of its:",
+        "options": [
+            "Transparency",
+            "Water resistance",
+            "Thermal stability",
+            "Adhesive properties"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Water bottles are often made from PET due to its:",
+        "options": [
+            "Strength and water resistance",
+            "Flexibility",
+            "Biodegradability",
+            "Electrical conductivity"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Absorbable surgical sutures are made from polymers that are:",
+        "options": [
+            "Very strong",
+            "Electrically conductive",
+            "Biodegradable",
+            "Thermally stable"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Polymers used in adhesives and tapes have good:",
+        "options": [
+            "Bonding properties",
+            "Transparency",
+            "Chemical resistance",
+            "Thermal stability"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "A binary compound is composed of:",
+        "options": [
+            "Two of the same element",
+            "Two different elements",
+            "Three or more elements",
+            "A metal and a semi-metal"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The two main types of binary compounds are:",
+        "options": [
+            "Solid and liquid",
+            "Acidic and basic",
+            "Ionic and covalent",
+            "Simple and complex"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Ionic bonds are formed between:",
+        "options": [
+            "Two metals",
+            "Two non-metals",
+            "A metal and a non-metal",
+            "Two semi-metals"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "In an ionic bond, the metal:",
+        "options": [
+            "Shares electrons",
+            "Loses electrons to become a cation",
+            "Gains electrons to become an anion",
+            "Does not change"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "What is the state of most ionic compounds at room temperature?",
+        "options": [
+            "Gas",
+            "Liquid",
+            "Solid",
+            "Plasma"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Ionic compounds have high melting points because:",
+        "options": [
+            "They are lightweight",
+            "Strong electrostatic forces require a lot of energy to break",
+            "They contain water",
+            "They are soluble"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "When dissolved in water, ionic compounds:",
+        "options": [
+            "Become insoluble",
+            "Conduct electricity",
+            "Lose their crystal structure but don't conduct electricity",
+            "Turn into gases"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The regular, repeating structure of an ionic compound is called a:",
+        "options": [
+            "Molecule",
+            "Crystal lattice",
+            "Covalent network",
+            "Amorphous solid"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Why are ionic compounds typically brittle?",
+        "options": [
+            "They have low density.",
+            "They are soft.",
+            "Their crystal structure can fracture when ions of like charge are forced together.",
+            "They melt easily."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Covalent bonds are formed by the ______ of electrons.",
+        "options": [
+            "Transfer",
+            "Sharing",
+            "Destruction",
+            "Donation to a common pool"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Covalent bonds typically form between:",
+        "options": [
+            "Two metals",
+            "A metal and a non-metal",
+            "Two non-metals",
+            "A semi-metal and a metal"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which of these is a covalent compound?",
+        "options": [
+            "Sodium Chloride (NaCl)",
+            "Magnesium Oxide (MgO)",
+            "Water (H₂O)",
+            "Potassium Iodide (KI)"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "In a molecule of oxygen gas (O₂), how many electrons does each atom share?",
+        "options": [
+            "1",
+            "2",
+            "4",
+            "8"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "In a water molecule (H₂O), the oxygen atom attains a stable electron configuration by having __ electrons in its valence shell.",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "Which type of compound is more likely to be a gas or liquid at room temperature?",
+        "options": [
+            "Ionic",
+            "Covalent",
+            "Metallic",
+            "Alloy"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which type of compound, when dissolved in water, is less likely to conduct electricity?",
+        "options": [
+            "Ionic",
+            "Covalent",
+            "Both conduct equally well",
+            "Neither conducts"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which of the following is a way to prevent chemical hazards?",
+        "options": [
+            "Store all chemicals in a single, large container.",
+            "Do not use any personal protective equipment (PPE).",
+            "Clearly label all containers with their contents.",
+            "Dispose of chemicals by pouring them down the sink."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "What can happen if you are exposed to a biological hazard?",
+        "options": [
+            "You might get a chemical burn.",
+            "You could experience an electric shock.",
+            "You may develop an infection or illness.",
+            "You will get cuts or minor injuries."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Magnesium oxide (MgO) is formed by:",
+        "options": [
+            "Sharing electrons between Mg and O",
+            "Transfer of electrons from Mg to O",
+            "Transfer of electrons from O to Mg",
+            "A mixture of metals"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The role of electron transfer is central to the formation of:",
+        "options": [
+            "Covalent compounds",
+            "Ionic compounds",
+            "All binary compounds",
+            "Semi-metals"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "A key difference between ionic and covalent compounds is their:",
+        "options": [
+            "Colour",
+            "Melting and boiling points",
+            "Number of elements",
+            "Discoverer"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which compound is ionic?",
+        "options": [
+            "Carbon Dioxide (CO₂)",
+            "Ammonia (NH₃)",
+            "Methane (CH₄)",
+            "Sodium Chloride (NaCl)"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "Which compound is covalent?",
+        "options": [
+            "Potassium Bromide (KBr)",
+            "Calcium Oxide (CaO)",
+            "Hydrogen Gas (H₂)",
+            "Lithium Fluoride (LiF)"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The formation of a crystal lattice is a property of:",
+        "options": [
+            "Covalent compounds like water",
+            "Ionic compounds like salt",
+            "All solids",
+            "Metals only"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Water (H₂O) has a low melting point compared to salt (NaCl). This is because water is a ______ compound.",
+        "options": [
+            "Ionic",
+            "Covalent",
+            "Metallic",
+            "Binary"
+        ],
+        "correctAnswerIndex": 1
+    }
+]

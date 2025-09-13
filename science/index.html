@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Science Quiz</title>
+    
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Science Quiz</h1>
+        </header>
+
+        <form id="quiz-form"   action="https://formspree.io/f/xwpnzjvl"
+  method="POST">
+
+            <div class="student-info-section">
+                <h2>Student Information</h2>
+                <div class="form-group">
+                    <label for="student-name">Name:</label>
+                    <input type="text" id="student-name" name="student_name" required>
+                </div>
+                <div class="form-group">
+                    <label for="student-age">Age:</label>
+                    <input type="number" id="student-age" name="student_age" required>
+                </div>
+                <div class="form-group">
+                    <label for="student-location">Location:</label>
+                    <input type="text" id="student-location" name="student_location" required>
+                </div>
+                <div class="form-group">
+                    <label for="student-class">Class:</label>
+                    <input type="text" id="student-class" name="student_class" required>
+                </div>
+                <div class="form-group">
+                    <label for="phone-number">Phone Number:</label>
+                    <input type="tel" id="phone-number" name="phone_number" required>
+                </div>
+            </div>
+
+            <div id="quiz-container">
+            </div>
+
+            <button type="submit">Submit Quiz</button>
+
+            <div class="message-section">
+                <p>Created by Francis Nyantakyi. I will review your results and get in contact with you. I wish you all
+                    the best! 🙏</p>
+            </div>
+        </form>
+    </div>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2025 Nyantakyi Francis</p>
+            <p>Nyantakyi Francis. All rights reserved. | <a href="disclaimer.html"
+                    class="footer-link">Disclaimer</a></p>
+            <p>Look me up at <a href="https://nyantakyi-francis.github.io/NYANTAKYI-FRANCIS/"
+                    class="footer-link">here</a> for us to connect</p>
+            <p>Last Modified: <span id="last-modified"></span></p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+        document.getElementById('last-modified').textContent = document.lastModified;
+    </script>
+</body>
+
+</html>
