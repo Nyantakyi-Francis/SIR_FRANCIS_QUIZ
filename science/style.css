@@ -88,7 +88,14 @@ input:focus {
     padding: 1rem;
     border: 1px solid #e0e0e0;
     border-radius: 8px;
-    transition: box-shadow 0.3s;
+    transition: box-shadow 0.3s, border-color 0.3s;
+}
+
+/* New style for unanswered questions */
+.question.unanswered {
+    border: 2px solid #ff4d4d;
+    /* Red border to highlight */
+    box-shadow: 0 0 10px rgba(255, 77, 77, 0.5);
 }
 
 .question:hover {
@@ -139,7 +146,18 @@ button[type="submit"]:hover {
     transform: translateY(-2px);
 }
 
-/* Footer Styles (as per your previous request) */
+/* Validation Message Styles */
+.validation-message {
+    text-align: center;
+    color: #ff4d4d;
+    font-weight: bold;
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+    height: 1.5rem;
+    /* Reserve space for the message */
+}
+
+/* Footer Styles */
 footer {
     background-color: #1f2937;
     color: #ffffff;

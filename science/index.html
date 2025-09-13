@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Science Quiz</title>
-    
+
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 
@@ -17,8 +17,7 @@
             <h1>Science Quiz</h1>
         </header>
 
-        <form id="quiz-form"   action="https://formspree.io/f/xwpnzjvl"
-  method="POST">
+        <form id="quiz-form" action="https://formspree.io/f/xwpnzjvl" method="POST">
 
             <div class="student-info-section">
                 <h2>Student Information</h2>
@@ -44,6 +43,9 @@
                 </div>
             </div>
 
+            <!-- Added a div for validation messages -->
+            <div id="validation-message" class="validation-message"></div>
+
             <div id="quiz-container">
             </div>
 
@@ -59,8 +61,8 @@
     <footer>
         <div class="footer-content">
             <p>&copy; 2025 Nyantakyi Francis</p>
-            <p>Nyantakyi Francis. All rights reserved. | <a href="disclaimer.html"
-                    class="footer-link">Disclaimer</a></p>
+            <p>Nyantakyi Francis. All rights reserved. | <a href="disclaimer.html" class="footer-link">Disclaimer</a>
+            </p>
             <p>Look me up at <a href="https://nyantakyi-francis.github.io/NYANTAKYI-FRANCIS/"
                     class="footer-link">here</a> for us to connect</p>
             <p>Last Modified: <span id="last-modified"></span></p>
