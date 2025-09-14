@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to the Quiz</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+
+<body class="bg-slate-50 min-h-screen flex items-center justify-center p-4">
+
+    <div class="bg-white rounded-xl shadow-2xl p-8 max-w-2xl w-full text-center space-y-8">
+        <!-- Main Heading and Description -->
+        <header class="space-y-4">
+            <h1 class="text-5xl font-extrabold text-blue-700">Welcome to the Learning Hub</h1>
+            <p class="text-xl text-gray-600">Please select the subject you would like to test your knowledge on.</p>
+        </header>
+
+        <!-- Subject Selection Buttons -->
+        <div class="flex flex-col sm:flex-row gap-6 justify-center">
+            <a href="maths/index.html"
+                class="inline-flex items-center justify-center px-8 py-4 bg-blue-600 text-white font-bold text-lg rounded-xl shadow-lg hover:bg-blue-700 hover:scale-105 transform transition-all duration-300">
+                Mathematics Quiz
+            </a>
+            <a href="science/index.html"
+                class="inline-flex items-center justify-center px-8 py-4 bg-blue-600 text-white font-bold text-lg rounded-xl shadow-lg hover:bg-blue-700 hover:scale-105 transform transition-all duration-300">
+                Science Quiz
+            </a>
+        </div>
+
+        <!-- Section about Sir Francis -->
+        <section class="text-gray-500 text-sm mt-8 pt-6 border-t border-gray-200">
+            <h2 class="text-xl font-bold text-gray-700 mb-2">A Message from Sir Francis</h2>
+            <p class="leading-relaxed">
+                Hello learners! My name is Francis Nyantakyi. I am a passionate computer programmer, dedicated to helping others learn
+                and grow. I hope these quizzes not only test your knowledge but also spark a deeper curiosity in the wonderful world of
+                science and mathematics. More courses will be added in due time. Until then, have fun!
+            </p>
+        </section>
+    </div>
+
+</body>
+
+</html>

@@ -250,24 +250,24 @@
         "correctAnswerIndex": 1
     },
     {
-        "question": "A binary operation * is defined on the set P = {a, b, c}. The Cayley table is shown below. What is b * c?\n* | a  b  c\n--|---------\na | a  a  a\nb | b  b  b\nc | c  c  c",
+        "question": "The binary operation * is defined on the set of real numbers by a ∗ b=3a+2b. Which of the following statements is true?",
         "options": [
-            "a",
-            "b",
-            "c",
-            "Cannot be determined"
+            "The operation is commutative because a∗b=b∗a for all a, b.",
+            "The operation is commutative because addition is commutative.",
+            "The operation is not commutative because 3a+2b ≠ 3b+2a for all a, b.",
+            "The operation is not commutative because it involves multiplication."
         ],
-        "correctAnswerIndex": 1
+        "correctAnswerIndex": 2
     },
     {
-        "question": "In the Cayley table from question 26, what is the identity element?",
+        "question": "A binary operation * is defined on a set P. It is given that * is associative and has an identity element. Which of the following conditions is necessary and sufficient to prove that every element in P has an inverse?",
         "options": [
-            "a",
-            "b",
-            "c",
-            "There is no identity element."
+            "The operation is also commutative.",
+            "The cancellation laws hold: if a∗b=a∗c, then b=c, and if b∗a=c∗a, then b=c.",
+            "The set P is finite.",
+            "The operation is defined for all elements in P."
         ],
-        "correctAnswerIndex": 3
+        "correctAnswerIndex": 1
     },
     {
         "question": "An operation & is defined such that a & b = the smaller value of a or b. What is 7 & 3?",
