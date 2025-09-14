@@ -1,0 +1,179 @@
+/* General Body and Container Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+h1 {
+    color: #2196F3;
+    font-size: 2.5rem;
+}
+
+/* Form and Input Styles */
+#quiz-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.student-info-section,
+.message-section {
+    padding: 1.5rem;
+    background-color: #E3F2FD;
+    border-radius: 8px;
+    border: 1px solid #BBDEFB;
+}
+
+h2 {
+    color: #1565C0;
+    margin-top: 0;
+    font-size: 1.5rem;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    color: #555;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="tel"] {
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1rem;
+    transition: border-color 0.3s;
+}
+
+input:focus {
+    outline: none;
+    border-color: #2196F3;
+    box-shadow: 0 0 5px rgba(33, 150, 243, 0.5);
+}
+
+/* Quiz Question and Options Styles */
+#quiz-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.question {
+    background: #fafafa;
+    padding: 1rem;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    transition: box-shadow 0.3s, border-color 0.3s;
+}
+
+/* New style for unanswered questions */
+.question.unanswered {
+    border: 2px solid #ff4d4d;
+    /* Red border to highlight */
+    box-shadow: 0 0 10px rgba(255, 77, 77, 0.5);
+}
+
+.question:hover {
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.question p {
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.question label {
+    display: block;
+    cursor: pointer;
+    background-color: #fff;
+    padding: 0.75rem 1rem;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 0.5rem;
+    transition: background-color 0.2s;
+}
+
+.question label:hover {
+    background-color: #f0f0f0;
+}
+
+.question input[type="radio"] {
+    margin-right: 0.75rem;
+}
+
+/* Button Styles */
+button[type="submit"] {
+    background-color: #2196F3;
+    color: white;
+    padding: 1rem 1.5rem;
+    font-size: 1.25rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+    align-self: center;
+    width: 100%;
+}
+
+button[type="submit"]:hover {
+    background-color: #1976D2;
+    transform: translateY(-2px);
+}
+
+/* Validation Message Styles */
+.validation-message {
+    text-align: center;
+    color: #ff4d4d;
+    font-weight: bold;
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+    height: 1.5rem;
+    /* Reserve space for the message */
+}
+
+/* Footer Styles */
+footer {
+    background-color: #1f2937;
+    color: #ffffff;
+    padding: 1.5rem;
+    margin-top: 2rem;
+    border-top-left-radius: 0.75rem;
+    border-top-right-radius: 0.75rem;
+    text-align: center;
+    font-size: 0.875rem;
+}
+
+.footer-content a.footer-link {
+    color: #60a5fa;
+    text-decoration: underline;
+}
+
+.footer-content a.footer-link:hover {
+    color: #2563eb;
+}

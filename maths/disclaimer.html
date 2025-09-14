@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disclaimer</title>
+    <link rel="icon" href="dp.jpg" type="image/png">
+    <style>
+        /* General Body and Container Styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 1.5rem;
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        h1 {
+            color: #4CAF50;
+            font-size: 2.5rem;
+        }
+
+        p {
+            margin-bottom: 1rem;
+        }
+
+        /* Footer Styles */
+        footer {
+            background-color: #1f2937;
+            color: #ffffff;
+            padding: 1.5rem;
+            margin-top: 2rem;
+            border-top-left-radius: 0.75rem;
+            border-top-right-radius: 0.75rem;
+            text-align: center;
+            font-size: 0.875rem;
+        }
+
+        .footer-content a.footer-link {
+            color: #60a5fa;
+            text-decoration: underline;
+        }
+
+        .footer-content a.footer-link:hover {
+            color: #2563eb;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Disclaimer</h1>
+        </header>
+
+        <p>This Mathematics Quiz is intended for educational purposes only. The questions and answers are based on general
+            scientific concepts and are provided to aid in learning and self-assessment. The information presented
+            should not be considered a substitute for professional scientific advice or formal academic instruction.</p>
+
+        <p>While every effort has been made to ensure the accuracy of the quiz content, we do not make any guarantees
+            about the completeness, reliability, or correctness of the information. By using this quiz, you agree that
+            you are doing so at your own risk.</p>
+
+        <p>The creator of this quiz, Francis Nyantakyi, is not liable for any errors or omissions in the content or for
+            any actions taken in reliance on the information provided. All quiz results and personal information
+            collected are for the purpose of educational feedback and will be handled with care.</p>
+
+    </div>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2025 Nyantakyi Francis</p>
+            <p>Nyantakyi Francis' Story Collection. All rights reserved. | <a href="disclaimer.html"
+                    class="footer-link">Disclaimer</a></p>
+            <p>Look me up at <a href="https://nyantakyi-francis.github.io/NYANTAKYI-FRANCIS/"
+                    class="footer-link">here</a> for us to connect</p>
+            <p>Last Modified: <span id="last-modified"></span></p>
+        </div>
+    </footer>
+
+    <script>
+        // Sets the "Last Modified" date dynamically
+        document.getElementById('last-modified').textContent = document.lastModified;
+    </script>
+</body>
+
+</html>

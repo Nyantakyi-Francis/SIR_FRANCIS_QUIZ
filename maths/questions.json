@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "A binary operation is defined on a set S if:",
+        "options": [
+            "It produces a result only for some elements in S.",
+            "It combines any two elements of S to give a unique result that is always in S.",
+            "It is both commutative and associative.",
+            "It has an identity element."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The most fundamental property a set must have for an operation to be a binary operation is:",
+        "options": [
+            "Commutativity",
+            "Associativity",
+            "Closure",
+            "Distributivity"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "If a * b = b * a for all elements a and b in a set, the operation is said to be:",
+        "options": [
+            "Closed",
+            "Associative",
+            "Commutative",
+            "Distributive"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The property that states (a * b) * c = a * (b * c) for all a, b, c in a set is called:",
+        "options": [
+            "Closure",
+            "Commutativity",
+            "Associativity",
+            "Identity"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "An element 'e' in a set for which a * e = e * a = a for every element a is called the:",
+        "options": [
+            "Inverse element",
+            "Identity element",
+            "Prime element",
+            "Neutral element"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "For a given element 'a', the element 'b' that satisfies a * b = b * a = e (where e is the identity) is called the:",
+        "options": [
+            "Opposite of a",
+            "Negative of a",
+            "Inverse of a",
+            "Complement of a"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The distributive property links two operations. If multiplication (*) distributes over addition (+), then:",
+        "options": [
+            "a + (b * c) = (a + b) * (a + c)",
+            "a * (b + c) = (a * b) + (a * c)",
+            "a * b = b * a",
+            "(a * b) + c = a * (b + c)"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The operation * is defined on the set of integers by a * b = a + b - 5. What is 7 * 3?",
+        "options": [
+            "5",
+            "10",
+            "15",
+            "35"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Using the same operation a * b = a + b - 5, what is 4 * 6?",
+        "options": [
+            "5",
+            "10",
+            "15",
+            "24"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "The set of even integers is closed under which operation?",
+        "options": [
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "All of the above"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "Which of these operations is commutative on the set of real numbers?",
+        "options": [
+            "Subtraction",
+            "Division",
+            "Multiplication",
+            "None of the above"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which of these operations is associative on the set of real numbers?",
+        "options": [
+            "Subtraction",
+            "Division",
+            "Addition",
+            "None of the above"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The identity element for the addition operation on real numbers is:",
+        "options": [
+            "1",
+            "0",
+            "-1",
+            "The number itself"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The identity element for the multiplication operation on real numbers is:",
+        "options": [
+            "0",
+            "1",
+            "-1",
+            "The number itself"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The additive inverse of a number a is:",
+        "options": [
+            "1/a",
+            "-a",
+            "0",
+            "a"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The multiplicative inverse of a number a (where a ≠ 0) is:",
+        "options": [
+            "-a",
+            "1/a",
+            "0",
+            "1"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "An operation * is defined on the set {0, 1, 2, 3} by a * b = the remainder when a + b is divided by 4. Is this set closed under *?",
+        "options": [
+            "Yes",
+            "No",
+            "Cannot be determined",
+            "Only for some elements"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "For the operation in question 17, what is 3 * 3?",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "For the operation in question 17, what is the identity element?",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "For the operation in question 17, what is the inverse of element 2?",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "An operation * is defined on the set of real numbers by a * b = 2a + 2b. Is this operation associative?",
+        "options": [
+            "Yes, because (a*b)*c = a*(b*c)",
+            "No, because (a*b)*c ≠ a*(b*c)",
+            "Yes, because it is commutative",
+            "No, because there is no identity"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "For the operation a * b = 2a + 2b, is there an identity element?",
+        "options": [
+            "Yes, e = 0",
+            "Yes, e = 1",
+            "No, because a * e = 2a + 2e, which is never equal to a.",
+            "No, because the operation is not closed."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The operation * is defined by a * b = |a - b| on the set of whole numbers. What is 5 * 8?",
+        "options": [
+            "3",
+            "-3",
+            "13",
+            "40"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "For the operation a * b = |a - b|, is it commutative?",
+        "options": [
+            "Yes, because |a-b| = |b-a|",
+            "No, because |a-b| ≠ |b-a|",
+            "Only when a = b",
+            "Never"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "For the operation a * b = |a - b|, is it associative?",
+        "options": [
+            "Yes, for all a, b, c.",
+            "No, for example, | |2-5| - 8 | ≠ | 2 - |5-8| |",
+            "Only when a, b, c are all zero.",
+            "Yes, because it is closed."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "A binary operation * is defined on the set P = {a, b, c}. The Cayley table is shown below. What is b * c?\n* | a  b  c\n--|---------\na | a  a  a\nb | b  b  b\nc | c  c  c",
+        "options": [
+            "a",
+            "b",
+            "c",
+            "Cannot be determined"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "In the Cayley table from question 26, what is the identity element?",
+        "options": [
+            "a",
+            "b",
+            "c",
+            "There is no identity element."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "An operation & is defined such that a & b = the smaller value of a or b. What is 7 & 3?",
+        "options": [
+            "7",
+            "3",
+            "10",
+            "21"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "For the operation a & b = the smaller value of a or b, what is the identity element?",
+        "options": [
+            "0",
+            "1",
+            "There is no identity element.",
+            "The largest number in the set."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The operation □ is defined by a □ b = the larger value of a or b. What is 4 □ 9?",
+        "options": [
+            "4",
+            "5",
+            "9",
+            "36"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "If * is defined on real numbers by a * b = 3ab, what is the identity element?",
+        "options": [
+            "0",
+            "1",
+            "1/3",
+            "There is no identity element."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "For a * b = 3ab, what is the inverse of an element a?",
+        "options": [
+            "-a",
+            "1/a",
+            "1/(9a)",
+            "There is no inverse for most elements."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "An operation is defined by a Δ b = a² + b². Is this operation commutative?",
+        "options": [
+            "Yes, because a² + b² = b² + a²",
+            "No, because a² + b² ≠ b² + a²",
+            "Only if a = b",
+            "Never"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "For a Δ b = a² + b², is the operation associative?",
+        "options": [
+            "Yes, (aΔb)Δc = aΔ(bΔc) for all a, b, c.",
+            "No, for example, (1Δ2)Δ3 ≠ 1Δ(2Δ3)",
+            "Yes, because it is closed.",
+            "No, because there is no identity."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The operation * is defined on the set of integers by a * b = a + b - 1. What is the identity element?",
+        "options": [
+            "0",
+            "1",
+            "-1",
+            "2"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "For a * b = a + b - 1, what is the inverse of the element 5?",
+        "options": [
+            "-5",
+            "1",
+            "-3",
+            "4"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "If a binary operation has an identity element, how many identity elements can it have?",
+        "options": [
+            "Zero",
+            "Exactly one",
+            "Exactly two",
+            "Infinitely many"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "If an element has an inverse under a binary operation, how many inverses can it have?",
+        "options": [
+            "Zero",
+            "Exactly one",
+            "Exactly two",
+            "It depends on the operation."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The statement \"a * (b + c) = (a * b) + (a * c)\" is an example of:",
+        "options": [
+            "Commutativity of *",
+            "Associativity of *",
+            "Distributivity of * over +",
+            "The identity property"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "A set is closed under an operation if:",
+        "options": [
+            "The operation never changes.",
+            "The result of the operation is always in the same set.",
+            "The operation can be performed anywhere.",
+            "The operation has an identity element."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Which of the following sets is NOT closed under subtraction?",
+        "options": [
+            "Integers, ℤ",
+            "Real Numbers, ℝ",
+            "Natural Numbers, ℕ",
+            "Rational Numbers, ℚ"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which of the following sets is closed under division?",
+        "options": [
+            "Integers, ℤ",
+            "Natural Numbers, ℕ",
+            "Non-Zero Rational Numbers, ℚ{0}",
+            "Even Integers"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "An operation * is defined on {p, q, r} such that p is the identity element. What must be true?",
+        "options": [
+            "p * p = p, p * q = q, p * r = r",
+            "q * p = p, r * p = p",
+            "p * p = q, p * q = r, p * r = p",
+            "The Cayley table must be symmetric."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "If every element in a set has an inverse under a binary operation, the set is called a:",
+        "options": [
+            "Closed set",
+            "Commutative group",
+            "Group",
+            "Associative set"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "For a set to be a group under an operation, it must be closed, associative, have an identity, and:",
+        "options": [
+            "Be commutative",
+            "Have every element possess an inverse",
+            "Have exactly one element",
+            "Be finite"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The set of integers under addition is an example of a:",
+        "options": [
+            "Group",
+            "Set that is not closed",
+            "Set with no identity",
+            "Set where not every element has an inverse"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "The set of natural numbers under addition is NOT a group because:",
+        "options": [
+            "It is not closed.",
+            "It is not associative.",
+            "There is no identity element.",
+            "Not every element has an additive inverse."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "A real-life example of a binary operation is:",
+        "options": [
+            "The temperature of a room",
+            "The speed of a car",
+            "The combination of ingredients in a recipe",
+            "The colour of an object"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "In computer logic, an operation like AND is a binary operation on the set {True, False} because:",
+        "options": [
+            "It gives a single result for any two inputs.",
+            "It is very fast to compute.",
+            "It is used in all computers.",
+            "It has an identity element."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "When managing a budget, which property is most important for combining expenses?",
+        "options": [
+            "Commutativity (order doesn't matter)",
+            "Associativity (grouping doesn't matter)",
+            "Identity (a zero expense)",
+            "Inverse (refunds or income)"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "A set is best described as:",
+        "options": [
+            "A list of numbers in order.",
+            "A well-defined collection of distinct objects.",
+            "Any group of things.",
+            "A mathematical operation."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The number of elements in a set is called its:",
+        "options": [
+            "Size",
+            "Cardinality",
+            "Magnitude",
+            "Value"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Two sets are equal if:",
+        "options": [
+            "They have the same number of elements.",
+            "They are both subsets of a larger set.",
+            "They have exactly the same elements.",
+            "Their elements can be added together."
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Set A is a subset of set B if:",
+        "options": [
+            "Every element of A is also an element of B.",
+            "Every element of B is also an element of A.",
+            "A and B have no elements in common.",
+            "A has fewer elements than B."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "The empty set is a subset of:",
+        "options": [
+            "Itself only",
+            "No set",
+            "Every set",
+            "Only sets with one element"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The union of sets A and B is the set of elements that are:",
+        "options": [
+            "Only in A",
+            "Only in B",
+            "In either A or B or in both",
+            "In both A and B"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The intersection of sets A and B is the set of elements that are:",
+        "options": [
+            "Only in A",
+            "Only in B",
+            "In either A or B",
+            "In both A and B"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "The complement of a set A (within a universal set U) contains:",
+        "options": [
+            "All the elements of A",
+            "All the elements of U",
+            "All the elements in U that are not in A",
+            "All the elements not in U"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The difference of sets A and B (A - B) contains elements that are:",
+        "options": [
+            "In A but not in B",
+            "In B but not in A",
+            "In neither A nor B",
+            "In both A and B"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which law states that A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C)?",
+        "options": [
+            "Commutative Law",
+            "Associative Law",
+            "Distributive Law",
+            "De Morgan's Law"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "De Morgan's Law states that:",
+        "options": [
+            "The complement of a union is the intersection of the complements.",
+            "The union of two sets is commutative.",
+            "A set is a subset of itself.",
+            "The intersection of a set with its complement is the universal set."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "If a Venn diagram has two overlapping circles, the region where they overlap represents:",
+        "options": [
+            "The union of the two sets",
+            "The intersection of the two sets",
+            "The complement of the first set",
+            "The difference of the two sets"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "In a Venn diagram, the rectangle represents:",
+        "options": [
+            "The first set",
+            "The union of all sets",
+            "The universal set",
+            "The empty set"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "If n(A) = 10, n(B) = 15, and n(A ∩ B) = 4, what is n(A ∪ B)?",
+        "options": [
+            "21",
+            "25",
+            "29",
+            "19"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Using the values from question 64, how many elements are in A only?",
+        "options": [
+            "10",
+            "6",
+            "11",
+            "4"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "A survey shows 50 people like tea, 40 like coffee, and 20 like both. How many people like only tea?",
+        "options": [
+            "50",
+            "30",
+            "20",
+            "10"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "From the survey in question 66, how many people were surveyed in total?",
+        "options": [
+            "70",
+            "90",
+            "110",
+            "50"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "In a Venn diagram with three sets, the region where all three circles overlap represents:",
+        "options": [
+            "A ∪ B ∪ C",
+            "A ∩ B ∩ C",
+            "(A ∪ B) ∩ C",
+            "The complement of A"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The formula for three sets is n(A ∪ B ∪ C) = n(A) + n(B) + n(C) - n(A∩B) - n(A∩C) - n(B∩C) + ________.",
+        "options": [
+            "n(A ∩ B ∩ C)",
+            "n(A) * n(B) * n(C)",
+            "n(U)",
+            "0"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "If n(A) = 20, n(B) = 25, n(C)=30, n(A∩B)=10, n(A∩C)=8, n(B∩C)=12, and n(A∩B∩C)=5, what is n(A ∪ B ∪ C)?",
+        "options": [
+            "50",
+            "60",
+            "75",
+            "90"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "From the data in question 70, how many elements are in exactly one of the sets?",
+        "options": [
+            "Calculate: (20-10-8+5) + (25-10-12+5) + (30-8-12+5)",
+            "Calculate: (20-10-8) + (25-10-12) + (30-8-12)",
+            "Calculate: 20 + 25 + 30",
+            "Calculate: 10 + 8 + 12"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "In a class, 15 students play football, 20 play basketball, and 8 play both. How many play at least one sport?",
+        "options": [
+            "27",
+            "35",
+            "43",
+            "28"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "From the class in question 72, how many play only basketball?",
+        "options": [
+            "20",
+            "12",
+            "8",
+            "5"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "In a group of 50 people, 25 speak English, 20 speak French, and 10 speak both. How many speak neither language?",
+        "options": [
+            "5",
+            "15",
+            "25",
+            "35"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The power set of a set is:",
+        "options": [
+            "A set with more elements.",
+            "The set of all possible subsets.",
+            "A set that is always infinite.",
+            "The union of the set with itself."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "If a set has 3 elements, how many elements does its power set have?",
+        "options": [
+            "3",
+            "6",
+            "8",
+            "9"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The set {x | x is a positive integer less than 1} is:",
+        "options": [
+            "{0}",
+            "{1}",
+            "The empty set, ∅",
+            "The set of all negative integers"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which of these is an example of a finite set?",
+        "options": [
+            "The set of all prime numbers",
+            "The set of all integers",
+            "The set of all multiples of 5 between 1 and 100",
+            "The set of all real numbers"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which of these is an example of an infinite set?",
+        "options": [
+            "The set of days in a week",
+            "The set of students in a school",
+            "The set of all points on a line",
+            "The set of vowels in the English alphabet"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "The Cartesian product A × B of two sets is the set of all:",
+        "options": [
+            "Elements in A and B",
+            "Subsets of A and B",
+            "Ordered pairs (a, b) where a ∈ A and b ∈ B",
+            "Unions of A and B"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "If A = {1, 2} and B = {3, 4}, what is A × B?",
+        "options": [
+            "{1, 2, 3, 4}",
+            "{(1,3), (1,4), (2,3), (2,4)}",
+            "{(1,2), (3,4)}",
+            "{7}"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "A relation from set A to set B is:",
+        "options": [
+            "A subset of A × B",
+            "The union of A and B",
+            "The complement of B in A",
+            "An element of A"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "A function from A to B is a relation where:",
+        "options": [
+            "Every element in A is related to at least one element in B.",
+            "Every element in A is related to exactly one element in B.",
+            "Every element in B is related to an element in A.",
+            "The relation is symmetric."
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The set of all first elements in the ordered pairs of a relation is called its:",
+        "options": [
+            "Range",
+            "Domain",
+            "Codomain",
+            "Power set"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The set of all second elements in the ordered pairs of a relation is called its:",
+        "options": [
+            "Domain",
+            "Codomain",
+            "Range",
+            "Inverse"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "In a Venn diagram, two sets that do not overlap are called:",
+        "options": [
+            "Universal sets",
+            "Disjoint sets",
+            "Complementary sets",
+            "Equal sets"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "If every member of set A is also a member of set B, we say A and B are:",
+        "options": [
+            "Disjoint",
+            "Equal",
+            "Complementary",
+            "Not necessarily equal, but A is a subset of B."
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "The symmetric difference of two sets A and B is the set of elements which are in either of the sets but not in their intersection. It is equivalent to:",
+        "options": [
+            "(A - B) ∪ (B - A)",
+            "(A ∪ B) - (A ∩ B)",
+            "Both a and b",
+            "Neither a nor b"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Which of the following is always true for any set A?",
+        "options": [
+            "A ∪ A' = U",
+            "A ∩ A' = U",
+            "A - A' = A",
+            "A ∪ ∅ = ∅"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Which of the following is always true for any set A?",
+        "options": [
+            "A ∩ ∅ = A",
+            "A ∪ ∅ = A",
+            "A - ∅ = ∅",
+            "A ∩ U = ∅"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "The principle of inclusion-exclusion for two sets is given by:",
+        "options": [
+            "n(A ∪ B) = n(A) + n(B)",
+            "n(A ∪ B) = n(A) + n(B) - n(A ∩ B)",
+            "n(A ∪ B) = n(A) * n(B)",
+            "n(A ∪ B) = n(A) - n(B)"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "In a school, 100 students study Math, 80 study Physics, 30 study both. How many study Math only?",
+        "options": [
+            "100",
+            "70",
+            "50",
+            "20"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "From the school in question 92, how many students study at least one of the subjects?",
+        "options": [
+            "150",
+            "180",
+            "210",
+            "110"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "In a Venn diagram with three sets, the number of disjoint regions that can be shaded is:",
+        "options": [
+            "3",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "question": "A' ∩ B' is equivalent to:",
+        "options": [
+            "(A ∪ B)'",
+            "(A ∩ B)'",
+            "A' ∪ B'",
+            "A ∪ B"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "(A ∩ B) ∪ (A ∩ B') is equivalent to:",
+        "options": [
+            "A",
+            "B",
+            "A'",
+            "B'"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "If A ⊆ B, then A ∪ B is equal to:",
+        "options": [
+            "A",
+            "B",
+            "∅",
+            "U"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "If A ⊆ B, then A ∩ B is equal to:",
+        "options": [
+            "A",
+            "B",
+            "∅",
+            "U"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "The number of proper subsets of a set with n elements is:",
+        "options": [
+            "n",
+            "2^n",
+            "2^n - 1",
+            "n!"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "A real-life application of Venn diagrams is:",
+        "options": [
+            "Solving quadratic equations",
+            "Calculating the area of a circle",
+            "Visualizing data from surveys with multiple categories",
+            "Finding the slope of a line"
+        ],
+        "correctAnswerIndex": 2
+    }
+]
